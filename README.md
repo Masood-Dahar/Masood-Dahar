@@ -5,6 +5,6 @@
 - 📫 How to reach me? leave me text at my WhatsApp# +923443180282...
 
 <!---
-Masood-Dahar/Masood-Dahar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Masood-Dahar/Masood-Dahar is a ✨ Web Developer ✨ available to take all type of web development `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
